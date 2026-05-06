@@ -11,6 +11,10 @@ Estudante de **Ciência da Computação** com foco em transformar dados em solu�
 ### 📈 Experiência & Projetos
 * **Ex-Jovem Aprendiz Administrativo (Telhanorte):** Atuei na gestão de estoque e emissão de relatórios analíticos via SAP.
 
+### 🛠️ Projetos em Destaque
+- **[Automação de ETL de Estoque (Python + SQL)](https://github.com/Luizitooz/projeto-automacao-dados)**  
+  *Script automatizado que realiza a Extração, Transformação e Carga (ETL) de dados operacionais em um banco de dados MySQL, garantindo a padronização e integridade das informações.*
+  
 ---
 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/luizfelix22/) | luizfelix221204@outlook.com.br
 

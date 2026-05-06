@@ -10,7 +10,6 @@ Estudante de **Ciência da Computação** com foco em transformar dados em solu�
 
 ### 📈 Experiência & Projetos
 * **Ex-Jovem Aprendiz Administrativo (Telhanorte):** Atuei na gestão de estoque e emissão de relatórios analíticos via SAP[cite: 2].
-* **Projeto Jarvis:** Planejamento de um assistente pessoal inteligente focado em automação de tarefas e análise preditiva de vendas[cite: 1].
 
 ---
 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/luizfelix22/) | luizfelix221204@outlook.com.br[cite: 2]
